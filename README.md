@@ -32,7 +32,8 @@ The goal of this project is to create a robust image classification model capabl
 3. Install the required dependencies:
 
    ```bash
-   pip install -r requirements.txt
+   tensorflow
+   matplotlib
    ```
 
 ### Dataset
